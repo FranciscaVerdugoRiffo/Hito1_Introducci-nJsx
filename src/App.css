@@ -22,8 +22,8 @@
   color: #888;
 }
 .card-body .card-text {
-  font-size: 1.9rem; /* Tamaño más grande */
-  color: black; /* Color negro */
+  font-size: 1.9rem; 
+  color: black;
   
 }
 
@@ -42,5 +42,5 @@ button {
 }
 
 .card-ingredients {
-  font-size: 0.875rem; /* Ajusta el tamaño de la fuente, por ejemplo, 14px */
+  font-size: 0.875rem; /
 }

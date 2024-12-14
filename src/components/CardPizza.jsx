@@ -6,10 +6,10 @@ const CardPizza = ({ name, price, ingredients, img }) => (
                 <h5 className="card-title">{name}</h5>
                 <hr style={{ border: '1px solid #ccc' }} />
                 <p>Ingredientes: </p>
-                     <p className="card-ingredients">{ingredients.join(', ')}</p>
+                     <p className="card-ingredients">🍕{ingredients.join(', ')}</p>
                 <hr style={{ border: '1px solid #ccc' }} />
                 <p className="card-text">Precio: ${price.toLocaleString()}</p>
-                <button className="btn btn-light button-spacing">Ver más</button>
+                <button className="btn btn-light button-spacing">Ver más👀</button>
                 <button className="btn btn-dark">Añadir 🛒</button>
             </div>
         </div>
