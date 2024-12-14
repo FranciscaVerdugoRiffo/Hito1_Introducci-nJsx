@@ -21,10 +21,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.card-img-top {
+  margin: 0;
+  padding: 0;
+}
 .card-body .card-text {
   font-size: 1.9rem; 
   color: black;
-  
 }
 
 .card-body {
